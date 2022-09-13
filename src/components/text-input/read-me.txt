@@ -1,0 +1,12 @@
+
+
+CORRECT FORMAT
+
+
+<TextInput
+  name="quizName"
+  value={customQuizData.quizName}
+  onChange={customQuizDataUpdate}
+  placeholder='Další brutálně nucenej team building'
+  dark={true}
+/>
